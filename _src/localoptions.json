@@ -1,0 +1,364 @@
+{
+  "mode": "localoptions",
+  "version": 1,
+  "url": "https://ct-plumbing-austin.1r2.net",
+  "business": {
+    "name": "CT Plumbing Austin",
+    "trade": "Plumbing",
+    "street": "12345 N Lamar Blvd",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78753",
+    "phone": "(737) 263-1705",
+    "email": "contact@ctplumbingAustin.net",
+    "social": {}
+  },
+  "services": [
+    {
+      "slug": "drain-cleaning",
+      "name": "Drain Cleaning",
+      "stance": "noticed",
+      "h1": "Drain Cleaning in Austin, TX",
+      "title": "Drain Cleaning | CT Plumbing Austin | Austin, TX",
+      "meta": "CT Plumbing Austin handles drain cleaning in Austin, TX, with fixture checks, cable clearing, and camera inspection for slow sinks, backups, and sewer odors.",
+      "blurb": "We clear slow drains, backups, gurgling sinks, and sewer odors in Austin.",
+      "sections": [
+        {
+          "heading": "",
+          "paragraphs": [
+            "A sink that gurgles after the dishwasher drains, a shower pan that holds water, or a sewer odor near a floor drain can point to buildup inside a branch line. Water may still reach the pipe, but grease, soap, hair, paper, or roots can reduce the opening until the fixture drains slowly or sends water back toward the room. We trace the backup from the affected fixture toward the cleanout so we can tell whether the blockage sits in a trap, a branch pipe, or a longer drain run.",
+            "A single slow basin without standing water can sometimes wait for a scheduled visit, especially if no other fixture backs up. A toilet that rises, a tub that fills during laundry, or wastewater near a floor drain should not wait, because a blocked drain line can overflow onto flooring, cabinets, and wall materials. We clear the obstruction before repeated use pushes more water against the blockage."
+          ]
+        },
+        {
+          "heading": "Gurgling sinks and sewer odors",
+          "paragraphs": [
+            "We hear about kitchen sinks that drain slowly after a dishwasher cycle, bathroom sinks that bubble when the toilet flushes, and showers that leave a puddle around the drain cover. We also hear about a sewer smell from a utility room, a washing machine standpipe that spills, or a toilet bowl that rises before it empties. Each sound, smell, and backup gives us a starting point, but none identifies the exact section of pipe by itself.",
+            "We check whether water returns through another fixture, whether the trap holds water, and whether the blockage affects one room or several drains. A greasy kitchen branch, a hair-packed shower line, and a root-filled exterior pipe require different tools and different amounts of access. Similar symptoms can hide very different drain faults, so the work involved and the charge can change once we locate the obstruction."
+          ]
+        },
+        {
+          "heading": "Drain line inspection",
+          "paragraphs": [
+            "We begin at the fixture and accessible cleanout, checking the trap, drain opening, pipe diameter, and direction of the backup. Most sink and shower branches use pipe from 1 1/2 inches to 2 inches across, while a toilet drain commonly connects to a larger pipe. We note how far a cable travels, whether it meets solid resistance, and whether water clears after the line opens.",
+            "A basic fixture and cleanout check often takes 10 to 20 minutes, while a cable run or camera inspection takes longer when the blockage sits farther along the pipe. We can often clear an accessible branch line during the same visit, then flush water through the fixture and inspect the flow. We replace a trap washer or cleanout plug only if removal shows that the existing piece will not reseal, while a collapsed pipe, separated joint, or buried line repair needs a separate scheduled scope."
+          ]
+        },
+        {
+          "heading": "Pipe access and blockage depth",
+          "paragraphs": [
+            "Pipe material and pipe age affect the work because older cast iron can collect scale along the interior wall, while PVC often has smoother pipe walls but can still hold grease or debris at a fitting. A blockage near a sink trap usually gives us a shorter route than buildup farther down a branch or main drain. Roots, hardened grease, and construction debris can also require more clearing passes than loose hair or soap residue.",
+            "Access changes the scope as well. An exterior cleanout near the foundation gives us a direct entry point, while a line behind a vanity, beneath a crawl space, or through a roof vent can take more setup and protection for the surrounding room. Camera findings that show a broken pipe, a shifted joint, or a buried obstruction may call for further line work beyond clearing the drain opening."
+          ]
+        },
+        {
+          "heading": "Fixture and cleanout location",
+          "paragraphs": [
+            "Before you call, note which room and fixture back up first, such as the kitchen sink, hall bathroom tub, laundry standpipe, or floor drain. Tell us whether water stands in the basin, returns through another drain, or continues to run from a dishwasher or washing machine connection. If a garbage disposal sits under the kitchen sink, let us know whether the backup began while it was running.",
+            "Look for an exterior cleanout cap near the foundation or yard and tell us if furniture, stored boxes, or a locked gate blocks access to it. A photo of the drain opening, trap, or cleanout area can help us plan the cable route and protect nearby cabinets or flooring. Call CT Plumbing Austin at (737) 263-1705 before a rising backup reaches the floor, cabinet base, or adjacent fixture."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "water-heater-repair",
+      "name": "Water Heater Repair",
+      "stance": "two-jobs",
+      "h1": "Water Heater Repair in Austin, TX",
+      "title": "Water Heater Repair | CT Plumbing Austin | Austin, TX",
+      "meta": "CT Plumbing Austin repairs tank and tankless water heaters in Austin, TX, for cold showers, rumbling tanks, base leaks, failed elements, and burner faults.",
+      "blurb": "Tank and tankless heater diagnosis, repair, and leak checks across Austin.",
+      "sections": [
+        {
+          "heading": "",
+          "paragraphs": [
+            "A cold shower and a wet patch outside a heater closet both get called a broken water heater, but they lead to different work. From the hallway, a heater that has stopped heating shows up as cold or quickly fading water at the shower, while a failed tank or valve often leaves water at the closet threshold, drain pan, or garage floor. We handle both heating faults and water leaks on tank and tankless units in Austin, Rollingwood, West Lake Hills, and Lost Creek.",
+            "We start by separating a fixture-side complaint from a heater-side fault, then trace the problem to the tank, burner, element, thermostat, valve, or supply line. A heater producing only cold water without a leak can sometimes wait for a planned repair, but water at the base, repeated discharge from the relief valve, or a gas odor should not wait. A leaking tank can damage flooring and framing, while a combustion fault or pressure problem needs attention before the heater runs again."
+          ]
+        },
+        {
+          "heading": "No hot water or rumbling",
+          "paragraphs": [
+            "Customers often call because the shower turns cold halfway through, the water stays lukewarm at every tap, or the heater makes a popping or rumbling sound after a hot-water draw. Sediment on the bottom of a tank can make those sounds, while a failed heating element, thermostat, burner, or ignition component can leave the water cold. A tankless unit may also shut down during a draw and show an error code on its control panel.",
+            "Water around the tank base, a wet drain pan, rusty water from the hot side, or water running from the temperature-and-pressure relief valve point us toward a different set of parts. A relief valve can open because of pressure, temperature, or an expansion-tank problem; a seam leak points toward the tank itself. These complaints can sound alike over the phone, but the failed part, labor, and replacement materials can differ substantially once we inspect the heater."
+          ]
+        },
+        {
+          "heading": "Heater inspection",
+          "paragraphs": [
+            "We begin the callout by reading the rating plate, checking the installation area, and looking for water at the shutoff, unions, drain valve, relief valve, and tank seam. We measure supply pressure, confirm the thermostat setting, and check for a normal hot-water temperature range of roughly 120 to 140 degrees Fahrenheit. On electric units, we isolate power before testing voltage, heating elements, thermostats, and wiring; on gas units, we inspect the burner, ignition, vent connection, and flame behavior.",
+            "A focused diagnosis commonly takes about 20 to 40 minutes, depending on access to the panel, burner compartment, and piping. After the test, we can often replace a compatible element, thermostat, igniter, thermocouple, relief valve, or drain valve during the same callout when the part matches the heater. We schedule follow-up work when a tank needs replacement, a model-specific component must be ordered, access requires additional preparation, or permit and sign-off steps apply."
+          ]
+        },
+        {
+          "heading": "Tank age, access and shutoff valves",
+          "paragraphs": [
+            "Tank age affects the repair path because a corroded jacket, rusted seam, or deteriorated anode connection can make a single-part repair less practical than it first appears. A heater in an open garage gives us a different route to the controls and piping than one behind a closet door, above a ceiling access hatch, or in an attic. Stored boxes, narrow stairs, finished walls, and a drain pan with limited clearance can add work before we reach the failed component.",
+            "A seized water shutoff, corroded union, or brittle supply connector can also change the scope because we may need to renew fittings that will not disconnect safely. Model-specific control boards, tankless heat exchangers, and burner assemblies may require an ordered part rather than an on-site replacement. Replacement work can also involve venting, drain-pan connections, electrical disconnects, gas piping, or required sign-off, depending on the heater and its location."
+          ]
+        },
+        {
+          "heading": "Model number and heater access",
+          "paragraphs": [
+            "Before calling, read the model and serial number from the rating plate on the tank jacket or from the cabinet panel of a tankless unit. Tell us whether the heater sits in a garage, closet, attic, or utility room, and whether a door, stairs, or stored boxes restrict the route. If you know the installation age or have a photo of the burner, control, or leak point, keep it with the unit.",
+            "Note whether hot water has stopped at every tap or only after a short run, and whether water is actively leaving the drain pan or tank base. Do not remove an access panel or relight a burner if you smell gas. Call CT Plumbing Austin at (737) 263-1705; a leak at the tank seam can spread into framing and flooring while it waits."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "leak-repair",
+      "name": "Leak Repair",
+      "stance": "timing",
+      "h1": "Leak Repair in Austin, TX",
+      "title": "Leak Repair | CT Plumbing Austin | Austin, TX",
+      "meta": "CT Plumbing Austin handles leak repair in Austin, TX, tracing drips, wet cabinets, meter movement, and hidden pipe leaks before water damages drywall.",
+      "blurb": "We trace active leaks in Austin homes, from wet cabinets to water-stained drywall.",
+      "sections": [
+        {
+          "heading": "",
+          "paragraphs": [
+            "A drip below the kitchen sink can darken the cabinet floor within days, then soften particleboard around the supply valves. After a week, water often tracks along the drain opening, cabinet seam, or wall plate, so the damp spot extends beyond the original fitting. We follow the wet path before it reaches drywall, flooring, or the room below.",
+            "A pinhole in a copper pipe may start with only a faint hiss, yet a month of moisture can stain a ceiling, swell a baseboard, and feed mold behind a wall. Seasonal movement and repeated pressure cycles can also turn a loose compression nut into a steady leak under a vanity or behind a refrigerator line. Leak repair should not wait because water keeps moving through wood, drywall, insulation, and wall cavities after the visible drip looks small."
+          ]
+        },
+        {
+          "heading": "Dripping faucets and wet cabinets",
+          "paragraphs": [
+            "Customers call us about a cabinet that is wet under the sink, a faucet that drips after the handle is closed, or a puddle that returns after they wipe it up. We also hear about a ceiling spot below a bathroom, a water meter that moves while every fixture is off, and a hissing sound behind drywall. A damp ring around a shutoff valve or a rusty supply tube can point to a different leak than water collecting around a drain trap.",
+            "A valve stem can leak only while a handle turns, while a cracked supply line can release water continuously under pressure. A drain joint may stay dry until a sink or shower runs, whereas a pipe in a wall can leave no visible water at the fixture at all. These leaks can produce similar stains and puddles, but the failed part, access route, and repair work differ, so they do not carry the same cost."
+          ]
+        },
+        {
+          "heading": "Meter test and pipe inspection",
+          "paragraphs": [
+            "We start by locating the wet fixture, checking the cabinet, wall, ceiling, supply connections, shutoff valves, and nearby pipe route. With fixtures off, we watch the water meter for movement and use a pressure gauge to compare the static reading with the reading while water runs. Residential water pressure commonly falls between 40 and 80 psi, and an unusually high reading can keep stressing a weak valve, connector, or pipe joint.",
+            "A visual inspection with meter and pressure checks often takes 20 to 40 minutes, though a concealed leak can require additional tracing through a wall, ceiling, or crawlspace. We can usually replace an accessible supply tube, compression fitting, angle stop, washer, or section of exposed pipe during the same visit after isolating the water line. Pipe routing behind tile, inside a cabinet back, beneath flooring, or through a slab may need a separate visit so the opening, replacement material, and any wall repair can be planned correctly."
+          ]
+        },
+        {
+          "heading": "Shutoff valves and wall access",
+          "paragraphs": [
+            "The age and material of the failed fitting affect the work involved. An exposed PEX supply tube under a vanity gives us a direct route to the connection, while aging galvanized pipe, corroded copper, or a brittle plastic fitting may require us to remove more material before we can make a sound repair. Water damage can also weaken a cabinet floor or drywall panel around the pipe, adding access work before the new fitting goes in.",
+            "A seized shutoff valve can prevent us from isolating one fixture cleanly, which may require work at another valve or at the main water line. An exact cartridge, specialty valve, or matching connector may need to be ordered if the existing part uses a less common size or manufacturer-specific fitting. If rerouting pipe, opening a wall, or altering a plumbing run calls for a permit or sign-off, that scope adds coordination beyond an accessible connection repair."
+          ]
+        },
+        {
+          "heading": "Fixture model numbers and access",
+          "paragraphs": [
+            "Before calling, note which room has the leak and which fixture sits above or beside the wet area. The make and model code may appear on a faucet body, trim plate, valve body, or installation paperwork, and a photo of any lettering can help us match a cartridge, supply tube, or connector. Let us know the approximate age of the fitting and whether water runs only while the fixture is on or continues after it is shut off.",
+            "Please also describe whether the leak sits inside a vanity, behind drywall, below a ceiling, or in a crawlspace, and whether a cabinet or access panel blocks the pipe. If you can safely see the water source, tell us whether it comes from a handle, shutoff valve, supply line, drain joint, or pipe connection. Call CT Plumbing Austin at (737) 263-1705 before a steady leak swells the cabinet base, stains the ceiling, or soaks the drywall around the pipe."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "toilet-repair",
+      "name": "Toilet Repair",
+      "stance": "what-it-costs-to-wait",
+      "h1": "Toilet Repair in Austin, TX",
+      "title": "Toilet Repair | CT Plumbing Austin | Austin, TX",
+      "meta": "CT Plumbing Austin handles toilet repair in Austin, TX, from running tanks and weak flushes to leaks at the base, checking valves, seals, and bowls.",
+      "blurb": "Repairs for running toilets, weak flushes, leaks, and faulty fill valves.",
+      "sections": [
+        {
+          "heading": "",
+          "paragraphs": [
+            "Most people start by holding the flush handle down, jiggling it, or waiting for the tank to finish filling. Those are sensible first checks because a loose chain or hung-up flapper can sometimes settle back into place. The trouble returns when a worn flapper, sticking fill valve, or bent handle arm has already started to fail.",
+            "A plunger also makes sense when the bowl drains slowly or the water rises after a flush. It can clear paper near the trapway, but it will not correct a weak flush caused by a low tank water level, blocked rim holes, or a damaged flush valve. We check the bowl, tank, supply line, and base rather than treating every flush problem as the same blockage.",
+            "A toilet that only needs an occasional handle adjustment can usually wait a short time if the bowl and floor stay dry. A tank that keeps refilling, a bowl that rises toward the rim, or water at the base should not wait because water can run across flooring or pass beneath the toilet seal. We cover toilet repairs across Austin, Rollingwood, West Lake Hills, and Lost Creek."
+          ]
+        },
+        {
+          "heading": "Toilet keeps running",
+          "paragraphs": [
+            "People often call us because the toilet keeps running after the flush, even though nobody has used the bathroom. That sound can come from a flapper that leaks into the bowl, a fill valve that does not shut off, or water reaching the overflow tube. A tank may also make a whistle, hiss, or repeated short refill as the valve struggles to close.",
+            "Other calls start with a weak flush, a handle that moves without flushing, or a bowl that fills too high before draining. Water around the toilet base can point to a failed wax ring, loose closet bolts, condensation, or a crack in the porcelain. We inspect the tank parts and the toilet connection because a running tank, poor flush, and wet floor can look alike from outside, while each fault uses different parts and carries different repair work."
+          ]
+        },
+        {
+          "heading": "Tank and bowl inspection",
+          "paragraphs": [
+            "We begin the callout by flushing the toilet and watching the tank refill, bowl level, handle arm, chain, flapper, and overflow tube. We compare the water level with the molded mark inside the tank and check whether water continues into the bowl after the fill valve should stop. A dye test can show flapper seepage into the bowl within about 15 minutes.",
+            "We close the supply valve, inspect the braided connector and shutoff, then check the tank bolts, mounting bolts, and toilet base for corrosion or movement. We also test the flush handle and measure whether the chain has enough slack to let the flapper seal. A basic tank-part repair commonly takes about 30 to 60 minutes after we identify the failed component.",
+            "We can often replace a worn flapper, fill valve, handle, chain, or supply connector during the same visit when the matching part is available. A cracked bowl, seized mounting hardware, damaged flange, or toilet that must be removed for drain access may need separate scheduled work. If the toilet connects to an in-wall carrier or a concealed valve, we explain the access needed before opening the wall or tile."
+          ]
+        },
+        {
+          "heading": "Fill valve, shutoff, and access",
+          "paragraphs": [
+            "The age and design of the tank parts affect the repair work. A common flapper or universal fill valve may fit the tank directly, while an older flush valve, proprietary seal, or unusual tank lid can require a matching part from the manufacturer. We identify the part before replacing it so the flush volume and water level work with that toilet.",
+            "Access around the toilet also changes the work involved. A clear bathroom floor gives us room to remove the tank lid, isolate the supply, and test the base, while a toilet boxed in by cabinetry, tile, or a tight wall can make the shutoff and mounting bolts harder to reach. Rusted tank bolts or a corroded supply connector can add work because those parts may break during removal.",
+            "A shutoff valve that has seized can require work beyond the tank repair, especially if it will not fully stop water to the toilet. A part that must be ordered can also move the repair into a return visit. In a condominium or shared building, access to a water riser or a building manager’s sign-off can affect the scope before we disturb a valve or wall opening."
+          ]
+        },
+        {
+          "heading": "Tank stamp and bathroom location",
+          "paragraphs": [
+            "Before calling, check which bathroom has the faulty toilet and whether the tank is running, the bowl is rising, or water is appearing at the base. If you can safely remove the tank lid, look for the make or model marking inside the tank or on the porcelain near the water line. A clear photo of the flush handle, fill valve, and flapper can help us identify the likely replacement part.",
+            "Tell us whether the toilet sits beside a cabinet, behind a pedestal sink, or in a room with limited access to the shutoff valve. If you know when the toilet was installed or when the last tank part was changed, that can help distinguish an aging seal from a newer part that has slipped out of adjustment. Call CT Plumbing Austin at (737) 263-1705 before a running fill valve keeps sending water through the overflow or a base leak reaches the flooring beneath the bowl."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "faucet-repair",
+      "name": "Faucet Repair",
+      "stance": "who-calls",
+      "h1": "Faucet Repair in Austin, TX",
+      "title": "Faucet Repair Austin, TX | CT Plumbing Austin",
+      "meta": "CT Plumbing Austin provides faucet repair in Austin, TX, for drips, loose handles, worn cartridges, valves, and leaks beneath the sink.",
+      "blurb": "We repair dripping faucets, loose handles, cartridges, valves, and sink leaks.",
+      "sections": [
+        {
+          "heading": "",
+          "paragraphs": [
+            "Homeowners call us about a faucet that “won’t stop dripping,” a handle that “just spins,” or water that appears in the cabinet below the sink. We translate those descriptions into the faucet parts that need attention: the cartridge, stem, O-rings, aerator, supply lines, and shutoff valves.",
+            "A kitchen faucet may drip from the spout after the handle closes, while a bathroom faucet may leak around the handle only while water runs. A low stream can point to a blocked aerator, but a weak hot-water flow from one side of the faucet can also involve a cartridge or a partly closed angle stop beneath the sink.",
+            "A small spout drip can often wait for a scheduled repair, though it continues to waste water and can leave mineral buildup on the basin. Water under the cabinet, a faucet that will not shut off, or a cracked supply line should not wait because water can soak the cabinet floor, wall, and nearby connections."
+          ]
+        },
+        {
+          "heading": "Drip and loose handle",
+          "paragraphs": [
+            "“My faucet keeps dripping” can mean a worn cartridge, a damaged washer in an older compression faucet, or debris caught on a valve seat. “The handle is loose” may mean a backed-out set screw, a stripped handle adapter, or a stem that no longer turns the internal valve correctly.",
+            "Customers also report a faucet that squeals when opened, water spraying from the pull-down hose, or a stream that suddenly comes out sideways. A squeal can come from a restricted cartridge or supply line, while a sideways stream often starts with mineral deposits in the aerator screen. Water around the base of the spout usually points to worn O-rings or seals beneath the spout rather than the same part that causes a drip.",
+            "These complaints can sound alike from across the room, but each one leads us to a different fitting, repair method, and parts requirement once we inspect the faucet."
+          ]
+        },
+        {
+          "heading": "Sink valve inspection",
+          "paragraphs": [
+            "We begin the callout by identifying the faucet make, handle style, and location of the leak, then we run hot and cold water separately. We check the aerator, spout, handle movement, pull-down hose, supply connections, and the angle stops under the sink. A normal residential water pressure commonly falls between 40 and 80 psi, and pressure outside that range can affect a cartridge, hose, and spray head.",
+            "We shut off the water at the angle stops when they operate, remove the handle and trim, and inspect the cartridge, stem, seals, and retaining clip. A straightforward aerator, O-ring, handle screw, or cartridge replacement commonly fits into the same visit and may take 30 to 90 minutes after access is clear. We test the hot and cold sides, spout rotation, spray function, and cabinet connections before restoring the sink.",
+            "A seized shutoff valve, corroded mounting nut, specialty finish, or cartridge that must be matched to a specific model can extend the work. If the correct cartridge, hose, or valve body must be ordered, we isolate the fault where possible and book the return work after the part arrives."
+          ]
+        },
+        {
+          "heading": "Cartridge, shutoff, and access",
+          "paragraphs": [
+            "The cartridge or valve stem often drives the scope of a faucet repair because each manufacturer uses its own shape, ports, seals, and retaining method. A common cartridge that we can identify and source locally usually involves less preparation than a discontinued model, a specialty finish, or a faucet with no visible brand marking.",
+            "The angle stops beneath the sink also matter. A shutoff that turns freely lets us isolate the faucet and work at the cabinet; a seized, corroded, or leaking shutoff may need replacement before we can safely remove the faucet parts. Rusted supply nuts, tight cabinet walls, a deep sink bowl, and a disposal or filter housing can limit tool access around the mounting hardware.",
+            "A leak at the handle, spout, hose, or valve body changes the parts and labor involved. A damaged valve body or a faucet with unavailable internal parts can call for a replacement fitting rather than another cartridge, and matching the existing hole spacing and finish may require a separate installation visit."
+          ]
+        },
+        {
+          "heading": "Model number and handle",
+          "paragraphs": [
+            "Before calling, check which room holds the faucet and whether the problem sits at the kitchen sink, bathroom basin, bar sink, or laundry tub. Note whether it has one handle, two handles, a pull-down spray head, or a separate side sprayer, since those fixtures use different hoses and valve parts.",
+            "Look for a brand name or model number on the spout, handle cap, escutcheon plate, spray head, or original instruction sheet. A clear photo of the faucet and the cabinet below the sink can show the hose route, angle stops, supply lines, and available wrench access.",
+            "Tell us whether the faucet drips only after shutoff, leaks while running, or leaves water in the cabinet even when nobody uses the sink. If you know the fitting’s approximate age or whether a cartridge was replaced before, that can help us bring a closer match.",
+            "Call CT Plumbing Austin at (737) 263-1705 with the model number or photos available. A drip can build mineral deposits around the spout, while water beneath the sink can swell cabinet flooring and damage the shutoff connections."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "garbage-disposal-repair",
+      "name": "Garbage Disposal Repair",
+      "stance": "the-house",
+      "h1": "Garbage Disposal Repair in Austin, TX",
+      "title": "Garbage Disposal Repair | CT Plumbing Austin | Austin, TX",
+      "meta": "CT Plumbing Austin repairs humming, jammed, leaking, and slow-draining garbage disposals in Austin, TX. We inspect the unit, drain, and sink cabinet.",
+      "blurb": "We repair humming, jammed, leaking, and backed-up kitchen disposals.",
+      "sections": [
+        {
+          "heading": "",
+          "paragraphs": [
+            "In older Austin kitchens, the disposal often remains beneath the original sink while cabinets, countertops, and dishwasher hoses have changed around it. We see worn mounting rings, hardened drain gaskets, and jammed grinding chambers in homes across Austin, Rollingwood, West Lake Hills, and Lost Creek. Food scraps, grease, and a utensil dropped through the splash guard can stop the unit or leave water in the sink.",
+            "We start by separating a jam inside the grinding chamber from a drain blockage, a failed switch, or a leak at the sink flange. A humming disposal can usually wait with its switch off and the sink unused. Water pooling in the cabinet or backing into the sink should not wait, because it can soak cabinet panels and run through the dishwasher connection."
+          ]
+        },
+        {
+          "heading": "Humming disposal and sink water",
+          "paragraphs": [
+            "Customers often call because the disposal hums but will not spin, makes a grinding sound, or stays completely silent when the wall switch is turned on. Others report sink water that rises when the dishwasher drains, or food scraps that remain in the basin after the unit runs. A reset button that will not hold can point to a jammed motor, an overloaded circuit, or a worn disposal.",
+            "A sour odor from the sink may come from residue inside the grinding chamber, while water beneath the unit can come from the discharge elbow, dishwasher inlet, sink flange, or disposal housing. We check the source before replacing parts or changing the drain connection. Similar sounds and puddles can come from very different components, so the repair work and parts required can vary once we inspect the cabinet."
+          ]
+        },
+        {
+          "heading": "Under-sink inspection",
+          "paragraphs": [
+            "We first isolate power at the switch or circuit, then check the reset button, outlet, cord, mounting ring, splash guard, and grinding chamber. We inspect the discharge elbow, P-trap, dishwasher hose, and sink flange for loosened connections or water marks. A disposal wrench can free some jams without removing the unit, while a damaged turntable or cracked housing requires a different repair.",
+            "We use a meter to verify power at the outlet instead of assuming the disposal motor has failed, and we check the alignment of the drain connection with the typical 1 1/2-inch sink drain. A run, leak, and drain test commonly takes 20 to 40 minutes, depending on cabinet access and the fault. We can often clear a simple jam, replace a gasket, or fit an available replacement unit during the visit; a cracked flange, altered drain route, or model that must be ordered is booked for follow-up work."
+          ]
+        },
+        {
+          "heading": "Mounting ring and cabinet access",
+          "paragraphs": [
+            "The disposal's age, model, and mounting ring affect the parts needed for the repair. A corroded mounting assembly, a seized drain nut, or a leaking sink flange can add removal work beyond the motor or grinding chamber. Tight cabinet walls, stored items, and a dishwasher hose routed across the unit also change the access beneath the sink.",
+            "A repair stays more straightforward when the existing drain elbow, power cord, and dishwasher inlet match the replacement part. Work expands if the selected disposal needs a different mounting adapter, a new drain connection, or an ordered component that does not match the old unit. We inspect those connections before setting out the work needed at the sink cabinet."
+          ]
+        },
+        {
+          "heading": "Model plate and sink cabinet",
+          "paragraphs": [
+            "Before calling, check the model number and make on the plate underneath or along the side of the disposal body. Let us know whether the unit hums, leaks, trips the reset button, or leaves water standing in the sink. If you know when the disposal was installed, that can help us identify compatible mounting and drain parts.",
+            "Please tell us which sink cabinet holds the unit, especially if the kitchen has a bar sink or prep sink as well. Clear cleaners, bins, and stored pans from the cabinet if possible so we can reach the mounting ring and drain elbow. Call CT Plumbing Austin at (737) 263-1705 before a leak at the disposal or sink flange has time to swell the cabinet floor."
+          ]
+        }
+      ]
+    }
+  ],
+  "areas": [
+    "Austin",
+    "Rollingwood",
+    "West Lake Hills",
+    "Lost Creek"
+  ],
+  "hours": [
+    {
+      "day": "Monday",
+      "open": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "open": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "open": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "open": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "open": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "open": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "open": "Open 24 hours"
+    }
+  ],
+  "alt": {
+    "1": "A plumber in a cap tightening the supply line behind a toilet with red-handled slip-joint pliers, a tool bag on the floor beside him",
+    "2": "A plumber in safety glasses working on the control valve of a gas water heater, with copper pipes running above the tank",
+    "3": "A plumber kneeling on a lawn feeding a camera cable into an open sewer cleanout, the inside of the pipe showing on a monitor in the case beside him",
+    "4": "A plumber tightening the white plastic P-trap under a stainless steel kitchen sink, with an open tool bag on the floor"
+  },
+  "cover": 3,
+  "logo": "assets/logo.png",
+  "structure": "anvil",
+  "imageSet": "set-3",
+  "verification": [],
+  "home": {
+    "sub": "We take plumbing calls, ask about the fixture or pipe, and arrange the next step from our Austin office.",
+    "title": "Austin, TX Plumbing | CT Plumbing Austin",
+    "meta": "CT Plumbing Austin handles plumbing calls in Austin, TX. Describe what you see at the fixture, drain, or pipe, then ring us or send a message today.",
+    "aboutHeading": "Handling Plumbing Calls Across Austin",
+    "firstBreak": "Tell us what you notice at the fixture",
+    "secondBreak": "Reach our Austin office from nearby neighborhoods",
+    "about": [
+      "When you ring, we ask what you notice, where the fixture or pipe sits, and whether water is moving or collecting. We can usually discuss the symptoms, the room, and the next step over the phone. A visit may be needed to inspect the pipe, valve, drain, or connection directly.",
+      "We work in houses, shops, and rentals, where a bathroom, kitchen, or utility room layout guides access to pipes. Older buildings can place valves and connections behind finished walls, while newer construction may use different fittings and cabinet layouts. Our coverage includes Austin, Rollingwood, West Lake Hills, and Lost Creek.",
+      "Before the van leaves, we test the fixture and nearby connections for normal operation and check the work area for water. We clear away packaging, removed parts, and tools from the floor, cabinet, or counter. We show you what was done and point out the valve, connection, or part involved."
+    ]
+  },
+  "now": "2026-11-11T04:50:50.775Z"
+}
