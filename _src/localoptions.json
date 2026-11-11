@@ -346,7 +346,9 @@
   "logo": "assets/logo.png",
   "structure": "anvil",
   "imageSet": "set-3",
-  "verification": [],
+  "verification": [
+    "4FS-u0yZWQHSSDKXrHGjgeEH4oZZLU5Ulw4q8evmUps"
+  ],
   "home": {
     "sub": "We take plumbing calls, ask about the fixture or pipe, and arrange the next step from our Austin office.",
     "title": "Austin, TX Plumbing | CT Plumbing Austin",
@@ -358,7 +360,8 @@
       "When you ring, we ask what you notice, where the fixture or pipe sits, and whether water is moving or collecting. We can usually discuss the symptoms, the room, and the next step over the phone. A visit may be needed to inspect the pipe, valve, drain, or connection directly.",
       "We work in houses, shops, and rentals, where a bathroom, kitchen, or utility room layout guides access to pipes. Older buildings can place valves and connections behind finished walls, while newer construction may use different fittings and cabinet layouts. Our coverage includes Austin, Rollingwood, West Lake Hills, and Lost Creek.",
       "Before the van leaves, we test the fixture and nearby connections for normal operation and check the work area for water. We clear away packaging, removed parts, and tools from the floor, cabinet, or counter. We show you what was done and point out the valve, connection, or part involved."
-    ]
+    ],
+    "servicesLede": "Find the job you need below. Each of the six opens onto what the work involves, how it is usually done, and what moves the price."
   },
   "now": "2026-11-11T04:50:50.775Z"
 }
